@@ -1,0 +1,2 @@
+# CompTIA-Network-Certification-for-IT-Professionals
+Computer networks form the backbone of modern IT environments, enabling communication between devices, applications, and services. Understanding networking concepts such as protocols, routing, switching, network security, and troubleshooting is essential for IT professionals responsible for maintaining reliable and secure network infrastructures.
